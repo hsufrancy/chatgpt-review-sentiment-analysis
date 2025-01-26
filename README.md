@@ -8,13 +8,14 @@ This project aims to perform sentiment analysis on user reviews of ChatGPT to un
 * Review date: Date when the review was posted
 
 ### Objectives
-Data Exploration & Visualization:
+* Data Exploration & Visualization:
 * Analyze distributions of ratings and review lengths.
 * Identify trends in sentiment over time using review dates.
 * Explore correlations between ratings and sentiment classification.
 Sentiment Analysis:
 * Use a pre-trained NLP model to classify sentiment.
 * Compare sentiment classification with numerical ratings for validation.
+
 Insight Generation:
 * Identify common themes or topics in negative and positive reviews using word clouds or topic modeling (e.g., LDA).
 * Detect potential biases or patterns in user feedback.
