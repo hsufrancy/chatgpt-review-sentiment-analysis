@@ -17,8 +17,6 @@ This project aims to perform sentiment analysis on user reviews of ChatGPT to un
 Sentiment Analysis:
 * Use a pre-trained NLP model to classify sentiment.
 * Compare sentiment classification with numerical ratings for validation.
-
-Insight Generation:
 * Identify common themes or topics in negative and positive reviews using word clouds or topic modeling (e.g., LDA).
 * Detect potential biases or patterns in user feedback.
 
