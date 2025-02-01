@@ -1,4 +1,4 @@
-# Chatgpt Review Sentiment Analysis 🤖
+# ChatGPT Review Sentiment Analysis 🤖
 
 ## ✍🏻 Proposal 
 ### Overview
