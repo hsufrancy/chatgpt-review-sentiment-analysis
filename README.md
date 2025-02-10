@@ -36,13 +36,20 @@ Sentiment Analysis:
 * Explore data by descriptive statistics.
 
 ### Week 5: Exploratory Data Analysis  & Visualization
-* Create visualizations for:
-    * Distribution of ratings and review lengths.
-    * Trends in ratings over time.
-    * Common words in high-rating vs. low-rating reviews using word clouds.
-* Analyze correlations between ratings and sentiment classification.
-* Identify potential biases in ratings and sentiment distribution.
-* Summarize EDA findings.
+* Distributions of features:
+    * Ratings
+    * Review lengths
+* Word Clouds of the Reviews
+    * Display a word cloud of the reviews
+    * The most frequent words used in reviews for each rating category
+* Temporal Trends
+    * Ratings over time
+    * Number of reviews over time
+* Sentiment Analysis
+    * Transform ratings into sentiment categories
+    * Distribution of Sentiment 
+    * Sentiment Distribution Over Time
+* Summarize EDA findings
 
 ### Week 6: Implementing Sentiment Analysis
 * Choose a pre-trained NLP model or libraries (e.g. spaCy and transformer models).
