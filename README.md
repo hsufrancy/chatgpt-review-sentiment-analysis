@@ -49,23 +49,26 @@ Sentiment Analysis:
     * Transform ratings into sentiment categories
     * Distribution of Sentiment 
     * Sentiment Distribution Over Time
-* Summarize EDA findings
+* EDA Summary
 
 ### Week 6: Implementing Sentiment Analysis
-* Choose a pre-trained NLP model or libraries (e.g. spaCy and transformer models).
-* Implement initial sentiment classification on review text.
-* Compare sentiment predictions with numerical ratings for validation.
-* Evaluate model performance (accuracy, F1-score).
-* Interpret results and extract key insights.
+* Transform the data for model training
+ - Label encoding
+ - TF-IDF Conversion
+* Address imbalanced dataset (Issues from the previous part)
+ - Oversample the Negative and Neutral Classes
+ - Weighted classification
+* Select and Train Sentiment Models
+* Evaluate Model Performance
 
 ### Week 7:  Fine-tuning & Identify Biases
-* Fine-tune or optimize sentiment classification (if needed, explore another model).
-* Detect potential patterns or biases in user feedback (e.g. OpenAI API and prompt engineering).
-* Interpret results and extract key insights.
+* Fine-tuning the best performance model
+* Examine misclassified samples
+* Compare predicted and actual sentiment categories
 
 ### Week 8: Finalizing Results & Report Draft
+* Finish Limitation & Insights section
 * Finalize all visualizations and insights.
-* Draft report sections.
 * Get feedback and make adjustments.
 
 ### Week 9: Final Review 
