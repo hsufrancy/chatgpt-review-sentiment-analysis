@@ -53,11 +53,11 @@ Sentiment Analysis:
 
 ### Week 6: Implementing Sentiment Analysis
 * Transform the data for model training
- - Label encoding
- - TF-IDF Conversion
+  - Label encoding
+  - TF-IDF Conversion
 * Address imbalanced dataset (Issues from the previous part)
- - Oversample the Negative and Neutral Classes
- - Weighted classification
+  - Oversample the Negative and Neutral Classes
+  - Weighted classification
 * Select and Train Sentiment Models
 * Evaluate Model Performance
 
